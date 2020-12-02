@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvURe0VoniBbM9Z80eRWv03le4N8xb0RI1uddVoOGKZJVUEn+1BXwZiRDBs3gXHuz1gq7dMuWa1RqftOtR7Mpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cequi\\repos\\KanyeWest\\KanyeWest\\KanyeWest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cequi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
